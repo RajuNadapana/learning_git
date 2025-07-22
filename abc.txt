@@ -3,6 +3,7 @@ welcome to git
 
 
 "this is my new txt"
+=>this line was added from FitHub website.
 
 Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
 Set your email address: git config --global user.email "MY_NAME@example.com"
@@ -12,3 +13,7 @@ workspace : this is where we create and edit project file on our computer
 staging area: A holding area where changes are prepared before commit to repository
 local repository: A git  database stored on our local machine where commit are saved
 Remote reposirory: repository hosted on server used to sharing code or file with other(git hub)
+
+Update abc.txt from GitHub
+
+
